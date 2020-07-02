@@ -721,7 +721,7 @@ section {
   left: 0;
 }
 
-.services .icon-box .icon svg path {
+.services .icon-box .icon svg circle {
   transition: 0.5s;
   fill: #f5f5f5;
 }
@@ -756,7 +756,7 @@ section {
   color: #fff;
 }
 
-.services .iconbox-blue:hover .icon path {
+.services .iconbox-blue:hover .icon circle {
   fill: #47aeff;
 }
 
@@ -768,7 +768,7 @@ section {
   color: #fff;
 }
 
-.services .iconbox-orange:hover .icon path {
+.services .iconbox-orange:hover .icon circle {
   fill: #ffa76e;
 }
 
@@ -780,7 +780,7 @@ section {
   color: #fff;
 }
 
-.services .iconbox-pink:hover .icon path {
+.services .iconbox-pink:hover .icon circle {
   fill: #e80368;
 }
 
@@ -792,7 +792,7 @@ section {
   color: #fff;
 }
 
-.services .iconbox-yellow:hover .icon path {
+.services .iconbox-yellow:hover .icon circle {
   fill: #ffbb2c;
 }
 
@@ -804,7 +804,7 @@ section {
   color: #fff;
 }
 
-.services .iconbox-red:hover .icon path {
+.services .iconbox-red:hover .icon circle {
   fill: #ff5828;
 }
 
@@ -816,7 +816,7 @@ section {
   color: #fff;
 }
 
-.services .iconbox-teal:hover .icon path {
+.services .iconbox-teal:hover .icon circle {
   fill: #11dbcf;
 }
 
